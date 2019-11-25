@@ -1,8 +1,9 @@
 // main.cxx
 #include <iostream>
-//int main() {
-//  std::cout << "Cheers!\n";
-//}
+int main() {
+  std::cout << "Cheers!\n";
+}
+/*
 #include <iostream>
 int main (int argc, char* argv[]) {
   //for(int i=0; i<argc;i++)
@@ -11,3 +12,4 @@ int main (int argc, char* argv[]) {
     std::cout << *argv ++ << "\n";
   }
 }
+*/
