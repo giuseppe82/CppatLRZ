@@ -1,0 +1,14 @@
+# include <iostream>
+int main () {
+  int a = 2;// integer with value 2
+  int b = 4;// integer with value 4
+  int* c = &a ;// pointer to int , assigned to address of a
+  *c = 3;// a == 3 now
+  c = &b;// redirecting c to address of b
+  *c = 5;// b == 5 now
+  std::cout << " a= " << a << " b= " << b
+	      << " *c= " << *c << " c= " << c << "\n ";
+  int &d = b;
+  d = 7;
+  std::cout << " b= " << b << " d= " << d << "\n";
+}

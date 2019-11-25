@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/second.dir/variable.cxx.o  -o second 

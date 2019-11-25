@@ -1,0 +1,4 @@
+/home/user/Tutorials/Day1/build/CMakeFiles/edit_cache.dir
+/home/user/Tutorials/Day1/build/CMakeFiles/first.dir
+/home/user/Tutorials/Day1/build/CMakeFiles/rebuild_cache.dir
+/home/user/Tutorials/Day1/build/CMakeFiles/second.dir

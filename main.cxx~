@@ -1,0 +1,5 @@
+// main.cxx
+#include <iostream>
+int main() {
+  std::cout << "Cheers!\n";
+}
